@@ -8,7 +8,7 @@ body {
     justify-content: center; /* Center horizontally */
     align-items: center;
 }
-.qr-code-container {
+.container {
     width: 375px;
     margin: 0 auto;
     text-align: center;
@@ -41,7 +41,7 @@ img {
 }
 
 @media (min-width: 1440px) {
-    .qr-code-container {
+    .container {
         width: 320px;
     }
 }
